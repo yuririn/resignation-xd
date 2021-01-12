@@ -13,10 +13,10 @@ XD最新バージョンを入手し、モリサワ A-OTF リュウミン（Adobe
 
 提出の際には**捺印**と**勇気**をお忘れなく。
 
-## 作者
-* かみーゆ
-* 銀ねこアトリエ
-* [https://ginneko-atelier.com/](https://ginneko-atelier.com/)
+## 作者情報
+* 名前：かみーゆ
+* 組織：銀ねこアトリエ
+* Webサイト：[https://ginneko-atelier.com/](https://ginneko-atelier.com/)
 
 ## ライセンス
 [MIT license](https://en.wikipedia.org/wiki/MIT_License)
